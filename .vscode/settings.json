@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a8353a6f-b472-49e8-9a2c-044cb109d887/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/azureAppTest",
+    "appService.deploySubpath": ""
+}
